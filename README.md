@@ -12,9 +12,6 @@ Sure, I know what a pointer is...
 
 ## Skills
 
-Ja, I know I have skill issue.
-
 - Python
 - JavaScript
-  - TypeScript
-  - SvelteKit
+- Kotlin
